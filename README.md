@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mmcverry44
-- 👀 I’m interested in programming things
-- 🌱 I’m currently learning javascript & python
+- 👀 I’m interested in programming things with Claude
 - 💞️ I’m looking to collaborate on software
 - 📫 How to reach me - hit me on instagram @mcverry
 - I enjoy riding bikes. 
